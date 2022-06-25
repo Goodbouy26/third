@@ -1,0 +1,40 @@
+.ade{
+	background-color: #295F79;
+}
+.flexy{
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 20px;
+}
+.width{
+	width: 100%;
+}
+are{
+	margin-top: -48px;
+	width: 100%;.
+}
+.typo{
+	font-family: Segoe UI;
+	color: white;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 48px;
+	letter-spacing: 0em;
+	text-align: left;
+	position: relative;
+	left: 600px;
+	height: 48px;
+	width: 426px;
+	top: -150px;
+}
+.pad{
+	padding-left: 40px;
+}
+.blue{
+	background-color: #295F79;
+}
+.margin{
+	text-align: center;
+}
+}
